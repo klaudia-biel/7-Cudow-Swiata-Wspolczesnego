@@ -181,9 +181,7 @@ button {
         float:none;
     }
     #opis {
-        float:none;
         width:80%;
-        
     }
     #opis th {
         font-size:1rem;
@@ -203,9 +201,6 @@ button {
         flex-direction:column;
         float:none;
     }
-    #opis {
-        float:none;
-    }
     #opis th {
         font-size:1rem;
     }
@@ -222,9 +217,6 @@ button {
     .menu ul {
         flex-wrap: wrap;
         float:left;
-    }
-    #opis {
-        float:right;
     }
     #opis th {
         font-size:1rem;
